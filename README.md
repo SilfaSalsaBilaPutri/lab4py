@@ -5,4 +5,14 @@
 5. Setelah itu gunakan perulangan for, dengan print for i in range(len(Nama));, Fungsi 'len' untuk mengembalikan panjang (jumlah anggota) dari suatu objek.
 6. Kemudian c etak dengan perintah print(i+1,Nama[i],NIM[i],TGS[i],UTS[i],UAS[i],Nilaiakhir[i])
 7. selesai
-<h1>LATIHAN</h1> 
+
+# LATIHAN
+![gambar](SS1(2).png)
+![gambar](SS2(2).png)
+
+# PRAKTIKUM
+![gambar](SS3(2).png)
+![gambar](SS4(2).png)
+1[gambar](SS5.png)
+
+# FLOWCHART
