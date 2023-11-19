@@ -7,7 +7,7 @@
 7. selesai
 
 # LATIHAN
-
+![gambar](latihanss1.png)
 
 # PRAKTIKUM
 
