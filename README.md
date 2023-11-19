@@ -13,6 +13,6 @@
 # PRAKTIKUM
 ![gambar](SS3(2).png)
 ![gambar](SS4(2).png)
-1[gambar](SS5.png)
+![gambar](SS5.png)
 
 # FLOWCHART
