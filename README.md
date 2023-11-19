@@ -8,9 +8,12 @@
 
 # LATIHAN
 ![gambar](latihanss1.png)
+![gambar](latihanss2.png)
 
 # PRAKTIKUM
-
+![gambar](Praktikumss3.png)
+![gambar](Praktikumss4.png)
 ![gambar](SS5.png)
 
 # FLOWCHART
+![gambar](ss6.jpg)
