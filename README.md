@@ -7,12 +7,10 @@
 7. selesai
 
 # LATIHAN
-![gambar](SS1(2).png)
-![gambar](SS2(2).png)
+
 
 # PRAKTIKUM
-![gambar](SS3(2).png)
-![gambar](SS4(2).png)
+
 ![gambar](SS5.png)
 
 # FLOWCHART
